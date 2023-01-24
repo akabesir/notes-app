@@ -8,10 +8,10 @@ Edit existing notes
 Delete notes
 
 <h2>Getting Started</h2>
-Open the app and tap the "New Note" button to create a new note
-Enter your note's title and content
-Save the note by tapping the "Save" button
-To edit or delete a note, tap on the note in the list to open it and use the corresponding buttons
+<li>Open the app and tap the "New Note" button to create a new note</li>
+<li>Enter your note's title and content</li>
+<li>Save the note by tapping the "Save" button</li>
+<li>To edit or delete a note, tap on the note in the list to open it and use the corresponding buttons</li>
 
 <h2>Support</h2>
 If you encounter any issues or have any questions, please contact me at amarbesirovic@gmail.com. I am always happy to help.
